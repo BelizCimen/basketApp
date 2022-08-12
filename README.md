@@ -1,16 +1,23 @@
 # The functions of this service are as follows;
+
 -Add Products
   Products can be added to system
+	
 -Add Products
   Users can be added to system
+	
 -List Products
   Users should be able to list all products.
+	
 -Add To Cart
   Users can add their products to the cart 
+	
 -Show Cart
   Users can list the products they have added to their cart.
+	
 -Delete Cart Item
   Users can remove the products added from the cart.
+	
 -Complete Order
   Users can create an order with their cart and get total price with discount and get order details.
   
